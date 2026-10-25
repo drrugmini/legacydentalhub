@@ -13,6 +13,9 @@ Responsive static website for Legacy Dental Hub.
 - `assets/dr-rency-annie-abraham.jpg` — Dr. Rency Annie Abraham's profile photo
 - `assets/dr-akshay-m-v.jpg` — Dr. Akshay M V's profile photo
 - `assets/dr-anjith-augustine.jpg` — Dr. Anjith Augustine's profile photo
+- `assets/dr-zainab-abdul-razak.jpg` — Dr. Zainab Abdul Razak's profile photo
+- `assets/dr-sreelakshmi-v.jpg` — Dr. Sreelakshmi V's profile photo
+- `assets/dr-bhagyasree-m.jpg` — Dr. Bhagyasree M's profile photo
 
 ## Preview locally
 
@@ -27,3 +30,4 @@ Open `index.html` in a web browser. The international patient page is linked fro
 The site uses Google Fonts when available and includes system-font fallbacks.
 
 The homepage includes local business structured data. Canonical and social-sharing URLs are configured for `https://legacydental.in`; make sure the domain points to this published site before submitting the sitemap in Google Search Console.
+
