@@ -6,6 +6,7 @@ Responsive static website for Legacy Dental Hub.
 
 - `index.html` — homepage
 - `international-patients.html` — international patient enquiry and visit-planning information
+- `teeth-straightening.html` — overview of braces, clear aligners and the orthodontic treatment journey
 - `robots.txt` and `sitemap.xml` — crawl guidance and public page URLs for `legacydental.in`
 - `assets/logo.jpg` — clinic logo
 - `assets/dr-rugmini.jpg` — Dr. Rugmini's profile photo
